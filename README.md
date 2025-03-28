@@ -1,7 +1,7 @@
 # Retinal Fundus Image Analysis
 
 ![Retinal Fundus Example](https://github.com/Addisu-Amare/demo_maskr/blob/main/0328.gif)  
-*(Replace with your actual fundus image or visualization)*
+*(Retinal fundus image  segmentation)*
 
 ## Overview
 This repository contains tools and models for analyzing retinal fundus images, with applications in:

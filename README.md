@@ -1,6 +1,7 @@
 # Retinal Fundus Image Analysis
 
-![Retinal Fundus Example](https://github.com/Addisu-Amare/demo_maskr/blob/main/0328.gif)  
+![Retinal Fundus seg using maskr](https://github.com/Addisu-Amare/demo_maskr/blob/main/0328.gif) 
+![Retinal Fundus seg using yolo11s-seg and yolo11n-seg](https://github.com/Addisu-Amare/demo_maskr/blob/main/yolo-seg.gif)
 *(Retinal fundus image  segmentation)*
 
 ## Overview

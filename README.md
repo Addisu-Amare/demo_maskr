@@ -9,7 +9,7 @@ This repository contains tools and models for analyzing retinal fundus images, w
 - **lesion segmentation** (e.g., diabetic retinopathy, glaucoma)
 - **Anatomical Structure Segmentation** (optic disc, lesions)
 
-- # Code
+- # Code  and how to run it?
 - To be added in the future
 - # Metrics comparison
 - To be added soon
@@ -29,6 +29,10 @@ This repository contains tools and models for analyzing retinal fundus images, w
 
 ## Dataset
 -used data set IDRID dataset annotated using Roboflow platform
+
+# Experiment set up
+-
+
 ### Supported Datasets
 - [Kaggle Diabetic Retinopathy](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 - [EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)

@@ -6,26 +6,31 @@
 
 ## Overview
 This repository contains tools and models for analyzing retinal fundus images, with applications in:
-- **Disease Detection** (e.g., diabetic retinopathy, glaucoma, AMD)
-- **Anatomical Structure Segmentation** (optic disc, blood vessels, lesions)
-- **Clinical Biomarker Extraction** (cup-to-disc ratio, vessel tortuosity)
-- **Quality Assessment** of fundus images
+- **lesion segmentation** (e.g., diabetic retinopathy, glaucoma)
+- **Anatomical Structure Segmentation** (optic disc, lesions)
 
+- # Code
+- To be added in the future
+
+# proposed future work
+- **Clinical Biomarker Extraction** (cup-to-disc ratio, vessel tortuosity)
 ---
 
 ## Key Features
 - **Preprocessing**: Standardization of fundus images (cropping, contrast enhancement).
-- **Deep Learning Models**: Pretrained models for classification/segmentation tasks.
+- **Deep Learning Models**: customized seg model for segmentation tasks.
+# proposed  future work
 - **Quantitative Analysis**: Metrics for clinical relevance (e.g., hemorrhage area calculation).
 - **Visualization Tools**: Overlay masks, heatmaps, or annotations on fundus images.
 
 ---
 
 ## Dataset
+-used data set IDRID dataset annotated using Roboflow platform
 ### Supported Datasets
 - [Kaggle Diabetic Retinopathy](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 - [EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
 - [STARE](https://cecas.clemson.edu/~ahoover/stare/) or [DRIVE](https://drive.grand-challenge.org/) (vessel segmentation)
-- Custom datasets (see `data/README.md` for formatting guidelines)
 
 ### Dataset Structure
+

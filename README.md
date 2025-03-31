@@ -11,6 +11,8 @@ This repository contains tools and models for analyzing retinal fundus images, w
 
 - # Code
 - To be added in the future
+- # Metrics comparison
+- To be added soon
 
 # proposed future work
 - **Clinical Biomarker Extraction** (cup-to-disc ratio, vessel tortuosity)

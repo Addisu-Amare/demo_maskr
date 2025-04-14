@@ -2,6 +2,7 @@
 
 ![Retinal Fundus seg using maskr](https://github.com/Addisu-Amare/demo_maskr/blob/main/0328.gif) 
 ![Retinal Fundus seg using yolo11s-seg and yolo11n-seg](https://github.com/Addisu-Amare/demo_maskr/blob/main/yolo-seg.gif)
+![training sample of annotated IDRID retina image in instance segmentation format](https://github.com/Addisu-Amare/demo_maskr/blob/main/sample_1.png)
 *(Retinal fundus image  segmentation)*
 
 ## Overview
